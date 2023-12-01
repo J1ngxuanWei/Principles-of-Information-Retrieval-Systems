@@ -9,4 +9,10 @@ A web search engine based on python and flask is implemented, and the kernel is 
 - Search result reordering function based on simulated user clicks on search results and tags, used to optimize personalized query experience
 - A user profiling service based on big data simulation, which marks the emphasis value of specific tags for each user, and recommends the corresponding retrieval content of random keywords for the two tags with the highest recommendation value
 
+Operating environment need:
+
+- python 3.10
+- pycharm 2023.1 professional
+- Flask virtual environment based on pycharm
+
 ### Completed in December 2023, in course Principles-of-Information-Retrieval-Systems, at Nankai University
